@@ -7,8 +7,8 @@
     <th>Kelas</th>
   </tr>
   <tr>
-    <td>Fauzan Arrizal</td>
-    <td>2311110021</td>
+    <td>Jeremy Marcello Waani</td>
+    <td>2311110003</td>
     <td>SD04-01</td>
   </tr>
 </table>
