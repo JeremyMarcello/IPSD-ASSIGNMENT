@@ -1,5 +1,4 @@
 <h1 align="center">Informasi Mahasiswa</h1>
-
 <table align="center">
 <tr>
     <th>Nama</th>
